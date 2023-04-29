@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648948622993",
+    "firebase_url": "https://freemove-94428-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "freemove-94428",
+    "storage_bucket": "freemove-94428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648948622993:android:07b0714a0d9cbc246a0130",
+        "android_client_info": {
+          "package_name": "com.panceri.freemove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648948622993-40i1r2855rlt8jvrb9nocapfl8fnhe5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.panceri.freemove",
+            "certificate_hash": "0f829e214674063c7fb31b9c138838fb9ae12086"
+          }
+        },
+        {
+          "client_id": "648948622993-01sqnr9von344h4mfjko3iqbd91bkmeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmWNr2DXBDN4xuMc0Gp976qNr2JA3QO2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648948622993-01sqnr9von344h4mfjko3iqbd91bkmeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
